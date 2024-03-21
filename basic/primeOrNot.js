@@ -1,0 +1,4 @@
+function primeNum(n){
+  if
+  
+}
